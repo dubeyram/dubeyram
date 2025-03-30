@@ -4,6 +4,7 @@
 
 💻 **Senior Python Developer** | Django | AWS | PostgreSQL  
 🚀 Passionate about Backend Development & Stock Market Analysis  
+📢 Open to Work | Available Immediately
 
 ## 👨‍💻 About Me
 - 🎯 **Experience:** 4+ years in backend development
