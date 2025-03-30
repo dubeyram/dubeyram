@@ -33,8 +33,10 @@
 
 
 ## 📈 GitHub Stats
+
 ![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubeyram&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyram&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyram&exclude_repo=Mypetshopupdated&layout=compact&theme=tokyonight)
 
 ---
 
