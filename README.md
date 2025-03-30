@@ -1,12 +1,11 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontSize=30)
-
 # 👋 Hi, I'm Ram Gopal Dubey!
 
 💻 **Senior Python Developer** | Django | AWS | PostgreSQL  
 🚀 Passionate about Backend Development & Stock Market Analysis  
 📢 Open to Work | Available Immediately
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me <a href="https://www.linkedin.com/in/ram-gopal-dubey/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a> <a href="https://x.com/dubey_ram_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25"></a>
+
 - 🎯 **Experience:** 4+ years in backend development
 - 🏢 **Working At:** Thoughts2Binary 
 - 🔍 **Expertise:** Scalable architectures, microservices, system design
@@ -14,7 +13,6 @@
 - 💡 **Interests:** Trading & Investment, Entrepreneurship, Open-Source Contributions
 - ✉️ **Reach Me At:** [dubeyram.dev@gmail.com](mailto:dubeyram.dev@gmail.com)
 
----
 
 ## 🔥 Skills & Expertise
 - **Programming & Frameworks:** Python, Django, Flask
@@ -40,7 +38,4 @@
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-gopal-dubey/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dubey_ram_)
 
