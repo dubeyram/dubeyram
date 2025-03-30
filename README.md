@@ -11,7 +11,7 @@
 - 🔍 **Expertise:** Scalable architectures, microservices, system design
 - 📚 **Currently Learning:** Advanced Python, System Design, LangChain, and CI/CD automation
 - 💡 **Interests:** Trading & Investment, Entrepreneurship, Open-Source Contributions
-- ✉️ **Reach Me At:** [dubeyram.dev@gmail.com](mailto:dubeyram.dev@gmail.com)
+- ✉️ **Reach Me At:** [rambackenddev@gmail.com](mailto:rambackenddev@gmail.com)
 
 
 ## 🔥 Skills & Expertise
