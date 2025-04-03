@@ -9,7 +9,7 @@
 - 🎯 **Experience:** 4+ years in backend development
 - 🏢 **Working At:** Thoughts2Binary 
 - 🔍 **Expertise:** Scalable architectures, microservices, system design
-- 📚 **Currently Learning:** Advanced Python, System Design, LangChain, and CI/CD automation
+- 📚 **Currently Learning:** Advanced Python, Django Signals,Celery, System Design, LangChain, and CI/CD automation
 - 💡 **Interests:** Trading & Investment, Entrepreneurship, Open-Source Contributions
 - ✉️ **Reach Me At:** [rambackenddev@gmail.com](mailto:rambackenddev@gmail.com)
 
