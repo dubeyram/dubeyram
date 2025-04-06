@@ -37,6 +37,15 @@
 ![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubeyram&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyram&exclude_repo=Mypetshopupdated&theme=tokyonight)
 
+
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/dubeyram_?ext=contest)](https://leetcode.com/dubeyram_/)
+
+## 📊 CP Activity (via StopStalk)
+
+[![StopStalk](https://img.shields.io/badge/StopStalk-dubey07-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.stopstalk.com/user/profile/dubey07)
+
 ---
 
 
